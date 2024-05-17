@@ -13,7 +13,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </div>
 
-<img src="portada.png"></img>
+<img src="Fuente.png"></img>
 
 ## 🛠️ Stack
 
