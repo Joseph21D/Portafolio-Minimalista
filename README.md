@@ -35,7 +35,7 @@ npm create astro@latest -- --template Joseph21D/Portafolio-Minimalista
 ```
 
 ### 2. Añade tu contenido:
-Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
+- Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
 ### 3. Lanza el servidor de desarrollo:
 
 ```bash
@@ -44,7 +44,7 @@ npm run dev
 ```
 
 
-1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
+- Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
 
 
 ## 🧞 Comandos
