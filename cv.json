@@ -1,0 +1,189 @@
+{
+  "basics": {
+    "name": "Joseph Diaz",
+    "label": "Estudiante del curso de Computación Informática & Developer Frontend",
+    "image": "/me.webp",
+    "email": "jomadica1721@gmail.com",
+    "phone": "+51 919644850",
+    "url": "",
+    "summary": "Poseo 1 año de experiencia como Desarrollador Web & Frontend, al igual que experiencia en el área de ventas al público y atención al cliente. Actualmente soy estudiante de la carrera de Computacion Informatica en Idat. Vivo en Lima, Perú. He trabajado como programador independiente, desarrollando páginas web a solicitud y colaborando con equipos para el desarrollo de la interfaz de aplicaciones de delivery.",
+    "location": {
+      "address": "Av. Arquitecto Fernando Balúnde Terry",
+      "postalCode": "15324",
+      "city": "Lima",
+      "countryCode": "PE",
+      "region": "Perú"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Joseph Diaz",
+        "url": "https://linkedin.com/in/josephdiazcal/"
+      },
+      {
+        "network": "X",
+        "username": "Mariel1721",
+        "url": "https://twitter.com/Mariel1721"
+      },
+      {
+        "network": "GitHub",
+        "username": "Joseph Diaz",
+        "url": "https://github.com/Joseph21D"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Aspersud",
+      "position": "Atención al Cliente",
+      "url": "https://sudamericanoroeste.laiglesiadejesucristo.org/",
+      "startDate": "2020-12-09",
+      "endDate": "2022-06-06",
+      "summary": "En el área de atención al cliente proporcioné información a los clientes sobre los servicios y beneficios que ofrece la empresa, además evite que varias personas se fueran de la empresa, ofreciendo soluciones a los problemas que tenían. Mi función principal era resolver consultas y brindar asistencia a los clientes con profesionalismo y empatía."
+    },
+    {
+      "name": "Renusa",
+      "position": "Vendedor y Cajero",
+      "url": "https://renusa.pe/",
+      "startDate": "2023-03-01",
+      "endDate": "2024-01-10",
+      "summary": "Como vendedor logre que las personas que compraban los productos, entendieran las diferencias entre precios y marcas, mostrando los beneficios de manera individual y personalizada; y como cajero, gracias a mi conocimiento de Excel, logre que las cuentas realizadas al finalizar cada dia, cuadraran de manera mas exacta con el dinero en caja."
+    },
+    {
+      "name": "Fortel",
+      "position": "Asesor de Claro",
+      "url": "https://fortelcorp.com/",
+      "startDate": "2024-05-13",
+      "endDate": "",
+      "summary": "Ayudé a los clientes a resolver sus dudas respecto a los beneficios que incluian sus planes postapagos. Además, también los orienté respecto al uso de su línea al momento de realizar un viaje al extranjero, lo cual evitó que realizaran gastos innecesarios para poder comunicarse."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sensico",
+      "url": "https://cursos.sencico.gob.pe/",
+      "area": "Instalaciones Eléctricas y Domótica",
+      "studyType": "Técnico",
+      "startDate": "2022-10-15",
+      "endDate": "2023-06-05",
+      "courses": ["Instalación de Canalizaciones Eléctricas","Instalación de Dispositivos Eléctricos y Equipos de Iluminacón","Instalación de Sistemas de Seguridad y Protecciones Eléctricas","Instalación de Sistemas y Equipos Especiales"]
+    },
+    {
+      "institution": "Idat",
+      "url": "https://www.idat.edu.pe/",
+      "area": "Computación e Informática",
+      "studyType": "Técnico",
+      "startDate": "2023-06-10",
+      "endDate": "",
+      "courses": ["Lenguajes Frontend: HTML, CSS, JavaScript, Typescript, Angular, React","Lenguajes Backend: Pyhton, Java, PHP, C#"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Portafolio Minimalista",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Fácil de Editar",
+        "Imprime tu CV"
+      ],
+      "url": "https://mars.codes"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ]
+}
